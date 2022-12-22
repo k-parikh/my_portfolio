@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.549f99e5.css",
+    "main.js": "/portfolio/static/js/main.04cf3dd3.js",
+    "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/HB.jpg": "/portfolio/static/media/HB.d8500e9cc4f432c2b6e4.jpg",
+    "static/media/bground.jpg": "/portfolio/static/media/bground.a258041c899a5d525b26.jpg",
+    "static/media/logo2.png": "/portfolio/static/media/logo2.24755f15ea7b1a176216.png",
+    "static/media/python.png": "/portfolio/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/google.png": "/portfolio/static/media/google.e604926e54836850bc58.png",
+    "static/media/klogo.png": "/portfolio/static/media/klogo.b977753c7b80dfc6db64.png",
+    "static/media/java.png": "/portfolio/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/cplusplus.png": "/portfolio/static/media/cplusplus.24a8f93854ab092f17a7.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/ibm.png": "/portfolio/static/media/ibm.f494bad72f53e25aef6d.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.549f99e5.css.map": "/portfolio/static/css/main.549f99e5.css.map",
+    "main.04cf3dd3.js.map": "/portfolio/static/js/main.04cf3dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.549f99e5.css",
+    "static/js/main.04cf3dd3.js"
+  ]
+}
